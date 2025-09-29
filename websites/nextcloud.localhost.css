@@ -24,6 +24,7 @@ html, body,
 .memories-top-bar {
   background: rgba(23, 23, 23, 0.9) !important;
   background-color: rgba(23, 23, 23, 0.9) !important;
+  border-radius: 12px !important;
 }
 
 /* @ popup menu carret */
