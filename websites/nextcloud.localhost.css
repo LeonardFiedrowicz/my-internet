@@ -1,12 +1,14 @@
 /* nc-transparency */
-html, body, 
-.app-navigation, 
-.content-list__search, .text-menubar, .text-menubar--ready, 
-.app-content.no-snapper, 
+html,
+body,
+.app-navigation,
+.content-list__search,
+.text-menubar,
+.text-menubar--ready,
+.app-content.no-snapper,
 .header {
   background: none !important;
   --color-main-background: transparent !important;
   --color-main-background-blur: transparent !important;
   --color-border: rgba(125, 125, 125, 0.1) !important;
 }
-
